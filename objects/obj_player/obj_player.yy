@@ -45,8 +45,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_player_parado",
-    "path": "sprites/spr_player_parado/spr_player_parado.yy",
+    "name": "spr_player_still",
+    "path": "sprites/spr_player_still/spr_player_still.yy",
   },
   "spriteMaskId": null,
   "visible": true,

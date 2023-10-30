@@ -26,8 +26,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_alien_parado",
-    "path": "sprites/spr_alien_parado/spr_alien_parado.yy",
+    "name": "spr_alien_still",
+    "path": "sprites/spr_alien_still/spr_alien_still.yy",
   },
   "spriteMaskId": null,
   "visible": true,
