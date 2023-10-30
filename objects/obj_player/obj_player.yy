@@ -21,6 +21,7 @@
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":{"name":"obj_puerta_azul_room_tutorial","path":"objects/obj_puerta_azul_room_tutorial/obj_puerta_azul_room_tutorial.yy",},"eventNum":0,"eventType":4,"isDnD":false,},
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":75,"eventType":9,"isDnD":false,},
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":8,"isDnD":false,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":2,"eventType":3,"isDnD":false,},
   ],
   "managed": true,
   "overriddenProperties": [],
@@ -45,8 +46,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_player_still",
-    "path": "sprites/spr_player_still/spr_player_still.yy",
+    "name": "spr_player_idle_d",
+    "path": "sprites/spr_player_idle_d/spr_player_idle_d.yy",
   },
   "spriteMaskId": null,
   "visible": true,

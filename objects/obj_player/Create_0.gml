@@ -7,3 +7,5 @@ abierta_carcel_room= false;
 abierta = false;
 escondido = false;
 
+action = "idle" ;
+face = "_d"
