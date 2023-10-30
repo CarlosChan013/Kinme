@@ -26,8 +26,8 @@
   "properties": [],
   "solid": true,
   "spriteId": {
-    "name": "spr_kimne",
-    "path": "sprites/spr_kimne/spr_kimne.yy",
+    "name": "spr_kimne_parada",
+    "path": "sprites/spr_kimne_parada/spr_kimne_parada.yy",
   },
   "spriteMaskId": null,
   "visible": true,
