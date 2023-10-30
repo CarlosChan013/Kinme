@@ -7,5 +7,4 @@ if (horizontal != 0 || vertical != 0) {
     y += lengthdir_y(2, direccion);
 		
    
-
- 
+}

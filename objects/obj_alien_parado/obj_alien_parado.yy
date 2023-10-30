@@ -26,8 +26,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_alien_still",
-    "path": "sprites/spr_alien_still/spr_alien_still.yy",
+    "name": "spr_alien_idle_le",
+    "path": "sprites/spr_alien_idle_le/spr_alien_idle_le.yy",
   },
   "spriteMaskId": null,
   "visible": true,

@@ -1,1 +1,1 @@
-sprite_index = asset_get_index("spr_player_" + action + face)
+// sprite_index = asset_get_index("spr_player_" + action + face)
