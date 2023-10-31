@@ -26,8 +26,8 @@
   "properties": [],
   "solid": true,
   "spriteId": {
-    "name": "spr_armario",
-    "path": "sprites/spr_armario/spr_armario.yy",
+    "name": "spr_armario_idle",
+    "path": "sprites/spr_armario_idle/spr_armario_idle.yy",
   },
   "spriteMaskId": null,
   "visible": true,
